@@ -1,0 +1,5 @@
+{
+  "name": "Grainrad Clone",
+  "description": "An image processing tool that applies various effects to pictures, such as ASCII, Dithering, Halftone, Matrix Rain, and more.",
+  "requestFramePermissions": []
+}
